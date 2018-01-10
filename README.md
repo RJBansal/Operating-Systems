@@ -9,5 +9,10 @@ File Operations and Memory Management Systems of an OS
   - Remove (file, directories) 
   - File Checksum
   
-# Memory Management System using various different allocation alogrithms 
+# Memory Management System 
+Using various different allocation alogrithms 
+  - Best
+  - Worst 
+  - First Fit 
+  - Next Fit 
    
